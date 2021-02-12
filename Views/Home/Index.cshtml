@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    List<Pessoa> listapessoa = ViewBag.Pessoa;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Ta difirci esse negocio <a href=".... eita vida..."></a>.</p>
+</div>
+
+
+<div class="text-center"> 
+    <h1 class="display-4">Listaaaa</h1>
+    <ul>
+    @foreach (var item in listapessoa)
+    {
+        <li>Nome: @item.Nome ... Fone: @item.Fone ... Tempo Exp: @item.TempoExperiencia anos</li>
+    }
+        </ul>
+</div>
