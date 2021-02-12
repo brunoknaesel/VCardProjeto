@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andre\\Downloads\\Projeto-VCard-MVC\\ProjetoVCardMVC\\ProjetoVCardMVC.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\VCardProjeto\\ProjetoVCardMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andre\\Downloads\\Projeto-VCard-MVC\\ProjetoVCardMVC\\ProjetoVCardMVC.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\VCardProjeto\\ProjetoVCardMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andre\\Downloads\\Projeto-VCard-MVC\\ProjetoVCardMVC\\ProjetoVCardMVC.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\VCardProjeto\\ProjetoVCardMVC.csproj",
         "projectName": "ProjetoVCardMVC",
-        "projectPath": "C:\\Users\\Andre\\Downloads\\Projeto-VCard-MVC\\ProjetoVCardMVC\\ProjetoVCardMVC.csproj",
-        "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andre\\Downloads\\Projeto-VCard-MVC\\ProjetoVCardMVC\\obj\\",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\VCardProjeto\\ProjetoVCardMVC.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\VCardProjeto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
